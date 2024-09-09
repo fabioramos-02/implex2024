@@ -1,0 +1,4 @@
+#nao fazer commit da venv
+venv/
+#nao fazer commit de arquivos de configuracao
+*. pyc
